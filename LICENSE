@@ -1,0 +1,41 @@
+本仓库中的一切内容（包括但不限于提示词正文、底牌、评分维度、说明文档与图表）
+均受版权法保护，版权所有，保留全部权利。
+
+你可以把这些内容用于**个人学习和练习** —— 包括复制某一份提示词、贴给任意一家大模型
+让它来考你，那正是这些内容存在的目的。
+
+除此之外的用途一律需要事先取得书面同意，包括但不限于：把内容（原文、译文、摘录、
+改写或衍生版本）搬出本仓库，以任何数字或非数字、文字或图形的形式发表、分发、售卖，
+或用于博客文章、时事通讯、课程、培训、产品、以及用于训练或微调模型的数据集。
+
+你可以自由分享本仓库的链接，或 https://kacam.net/drills 的链接，但不要把内容本身
+搬到别处去分享。
+
+以上限制**不适用于**用 GitHub 的 Fork 按钮创建的、以向本仓库贡献为目的的 fork。
+
+---
+
+Everything in this repository — including but not limited to the drill prompts,
+answer keys, scoring rubrics, specifications and diagrams — is protected by
+copyright law. All rights reserved.
+
+You are allowed to use this material for **personal study and practice**, including
+copying a prompt and pasting it into any large language model so that it can quiz
+you. That is exactly what this material is for.
+
+Any other use requires prior written consent. This includes, but is not limited to,
+taking the content (verbatim, translated, excerpted, rewritten or otherwise derived)
+out of this repository and publishing, distributing or selling it in any form,
+digital or non-digital, textual or graphical — including blog posts, articles,
+newsletters, courses, training programs, products, and datasets used to train or
+fine-tune models.
+
+You are welcome to share links to this repository or to https://kacam.net/drills,
+but not the content itself for use elsewhere.
+
+These conditions do not apply to read-only GitHub forks created using the Fork
+button for the sole purpose of contributing back to this project.
+
+中英文如有出入，以中文为准。 In case of any discrepancy, the Chinese text prevails.
+
+Copyright © 2026 - Present. kom <ai@komhero.com>, kacam.net
