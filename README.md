@@ -14,6 +14,7 @@
 | [system-design-cases/](system-design-cases/) | 系统设计 | 每题一份必答点清单 | 拷问 |
 | [computer-systems/](computer-systems/) | 计算机系统 | 每题一份「常见的想错」，外加全程逼数量级 | 引导 |
 | [database/](database/) | 数据库 | 每题一份「常见的想错」，默认按 MySQL/InnoDB 讲 | 引导 |
+| [database/oral/](database/oral/) | 数据库 · 语音版 | 同上，**改成能念出来的**：给豆包语音通话用 | 引导 |
 | [algorithms/](algorithms/) | 算法 | 每题一份「常见的想错」 | 引导 |
 | [code-review/](code-review/) | 代码评审 | 一段埋好坑的代码 + 那份问题清单 | 拷问 |
 | [troubleshooting/](troubleshooting/) | 故障排查 | 每题一份真相 + 埋好的伪线索 | 反过来：你问，它答 |
