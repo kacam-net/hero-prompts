@@ -14,7 +14,6 @@
 | [system-design-cases/](system-design-cases/) | 系统设计 | 每题一份必答点清单 | 拷问 |
 | [computer-systems/](computer-systems/) | 计算机系统 | 每题一份「常见的想错」，外加全程逼数量级 | 引导 |
 | [database/](database/) | 数据库 | 每题一份「常见的想错」，默认按 MySQL/InnoDB 讲 | 引导 |
-| [database/oral/](database/oral/) | 数据库 · 语音版 | 同上，**改成能念出来的**：给豆包语音通话用 | 引导 |
 | [algorithms/](algorithms/) | 算法 | 每题一份「常见的想错」 | 引导 |
 | [code-review/](code-review/) | 代码评审 | 一段埋好坑的代码 + 那份问题清单 | 拷问 |
 | [troubleshooting/](troubleshooting/) | 故障排查 | 每题一份真相 + 埋好的伪线索 | 反过来：你问，它答 |
@@ -22,6 +21,31 @@
 | [english/](english/) | 英语 | 「学好这一块要掌握的那几件事」+ 母语干扰 | 引导 |
 | [speaking/](speaking/) | 讲清楚 | 讲解那组是公开的评分量表，谈判那组是对面的底牌 | 角色扮演 + 打分 |
 | [your-own/](your-own/) | 讲自己的 | 每题一份「这一类事的根因清单」（材料是你带的） | 拷问 |
+
+## 语音版：`oral/`
+
+**九个系列各有一份 `oral/`，一共 94 份**，给豆包这类支持**语音通话**的模型用。
+**知识点一个没少，底牌一个没改**，改的是它怎么说、怎么问、怎么判：
+下划线、代码块、表格、`✅🟡❌` 念出来全是噪音，
+所以列名说中文、SQL 和代码口述、判卷符号改口播，
+另外每一份都加了一组语音铁律（**每次不超过三句就得停、不许念清单、
+不许报菜名、容忍语音转文字的错别字**）。
+
+| 语音版 | 份数 | 语音下多出来的东西 |
+| --- | --- | --- |
+| [speaking/oral/](speaking/oral/) | 7 | **真的沉默三到五秒**、真的打断、老板只听你三十秒 |
+| [troubleshooting/oral/](troubleshooting/oral/) | 6 | 一次只答一个问题；要图就念给你听；多了「捋一遍」 |
+| [english/oral/](english/oral/) | 5 | 音标不念符号、直接发音；**它听得见你把 V 读成 W** |
+| [database/oral/](database/oral/) | 8 | 列名说中文、执行计划一项一项念、时间线改「报拍子」 |
+| [computer-systems/oral/](computer-systems/oral/) | 10 | **不许查**：先按你现在记得的说一个数量级 |
+| [algorithms/oral/](algorithms/oral/) | 10 | 手推变成**报数、报栈、报分支** |
+| [system-design-cases/oral/](system-design-cases/oral/) | 17 | **连白板都没有**；不许报菜名；容量估算当场心算 |
+| [product-design-cases/oral/](product-design-cases/oral/) | 17 | 模糊词账、「我猜了几次」、数据一行一行念给你听 |
+| [your-own/oral/](your-own/oral/) | 14 | **它不许填补你的沉默**；沉默账、「我们」计数、改口账 |
+
+**只有 [code-review/](code-review/) 没做语音版** —— 它的核心是读一段二十几行的代码，
+纯语音要么得让教练分段念给你听（记不住），要么就得改成
+「代码看屏幕、追问走语音」的混合模式。那是改设计，不是改措辞。
 
 另外两份是规格，写新题从它们开始：
 
