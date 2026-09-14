@@ -12,6 +12,7 @@
 | 目录 | 系列 | 底牌 | 姿态 |
 | --- | --- | --- | --- |
 | [system-design-cases/](system-design-cases/) | 系统设计 | 每题一份必答点清单 | 拷问 |
+| [interview-questions/](interview-questions/) | 面试快问 | 每题一份「背诵指纹」——被背烂的那几句原话 + 每句往哪追 | 拷问 |
 | [computer-systems/](computer-systems/) | 计算机系统 | 每题一份「常见的想错」，外加全程逼数量级 | 引导 |
 | [database/](database/) | 数据库 | 每题一份「常见的想错」，默认按 MySQL/InnoDB 讲 | 引导 |
 | [algorithms/](algorithms/) | 算法 | 每题一份「常见的想错」 | 引导 |
@@ -28,6 +29,8 @@
   三套铁律模板、幕次骨架、口令表和收尾卡片、底牌的写法、上线前自查。
   **别从复制一份旧的开始，从这份开始。**
 - **[drill-series-expansion.md](drill-series-expansion.md)** —— 哪些系列成立、按什么顺序做。
+- **[interview-question-series.md](interview-question-series.md)** —— 「面试快问」那一批的设计稿：
+  五层阶梯、背诵指纹、七组 42 题的题库。**要往那个系列里加题，从这份开始。**
 
 还有两份 playbook（[系统设计](system-design-interview-playbook.md)、
 [产品设计](product-design-playbook.md)）是那两批 case 拆出来的源头，**是给人读的，不是提示词**。
